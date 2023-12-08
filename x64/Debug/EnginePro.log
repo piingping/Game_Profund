@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\uni\Project\sfml\EnginePro\EnginePro\main.cpp(81,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\uni\Project\sfml\EnginePro\EnginePro\main.cpp(1279,58): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\uni\Project\sfml\EnginePro\EnginePro\main.cpp(16): error C4716: 'getRandomEnemyPosition': must return a value
